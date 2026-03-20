@@ -1,0 +1,2 @@
+"""Carousell price alert bot."""
+
